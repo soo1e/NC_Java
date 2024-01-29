@@ -1,0 +1,35 @@
+
+p
+java:S1192"ZDefine a constant instead of duplicating this literal "-------------------------" 8 times.(ğÔ‘¬
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ó·”†
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šŞıÍûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¸œçûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(íñËìşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ãÑ£æ
+E	java:S106"+Replace this use of System.out by a logger.(ˆ­åÙÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ğÔ‘¬
+E	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(ğÔ‘¬
+E	java:S106$"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(ğÔ‘¬
+@	java:S106)"+Replace this use of System.out by a logger.(¾¹…½
+@	java:S106+"+Replace this use of System.out by a logger.(Ï»æÂ
+?	java:S106,"+Replace this use of System.out by a logger.(èñÅ\
+@	java:S106."+Replace this use of System.out by a logger.(ğÔ‘¬
+@	java:S1061"+Replace this use of System.out by a logger.(úæŒ§
+E	java:S1063"+Replace this use of System.out by a logger.(ãÔ±ìÿÿÿÿÿ
+@	java:S1065"+Replace this use of System.out by a logger.(ğÔ‘¬
+E	java:S1069"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ
+@	java:S106;"+Replace this use of System.out by a logger.(«ü—ı
+E	java:S106>"+Replace this use of System.out by a logger.(¦ãø’ûÿÿÿÿ
+E	java:S106@"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ
+@	java:S106C"+Replace this use of System.out by a logger.(ğÔ‘¬
+E	java:S106G"+Replace this use of System.out by a logger.(¸œçûÿÿÿÿ
+E	java:S106J"+Replace this use of System.out by a logger.(˜¾Ã¼ıÿÿÿÿ
+@	java:S106L"+Replace this use of System.out by a logger.(ÚÃÒæ
+E	java:S106N"+Replace this use of System.out by a logger.(‘Éß¶üÿÿÿÿ
+@	java:S106Q"+Replace this use of System.out by a logger.(ğÔ‘¬
+E	java:S106V"+Replace this use of System.out by a logger.(¬Ì€Ùüÿÿÿÿ
+@	java:S106W"+Replace this use of System.out by a logger.(êÌ
+@	java:S106Z"+Replace this use of System.out by a logger.(ğÔ‘¬
+E	java:S106e"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ

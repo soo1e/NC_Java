@@ -1,0 +1,32 @@
+
+r
+java:S1192"WDefine a constant instead of duplicating this literal "----------------------" 9 times.(ŽåÕ¹ÿÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÝªÒ¸øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÞýÍûÿÿÿÿ
+_
+java:S4143J"DVerify this is the key that was intended; it was already set before.(´ªú‰üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(™ÅŠç
+E	java:S106"+Replace this use of System.out by a logger.(ŽåÕ¹ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¸©ÑÍÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¸•¶·
+E	java:S106"+Replace this use of System.out by a logger.(ŽåÕ¹ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(‹ÇÎìþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ìè²§
+E	java:S106!"+Replace this use of System.out by a logger.(ŽåÕ¹ÿÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(…ÑÑ–úÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(ŽåÕ¹ÿÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(“ÄŽÀÿÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(—èü˜
+E	java:S106."+Replace this use of System.out by a logger.(ŽåÕ¹ÿÿÿÿÿ
+E	java:S1068"+Replace this use of System.out by a logger.(Ã¸¬¤ùÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(ŽåÕ¹ÿÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(‚é€Þûÿÿÿÿ
+E	java:S106@"+Replace this use of System.out by a logger.(ŽåÕ¹ÿÿÿÿÿ
+O
+java:S2864C"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ
+@	java:S106D"+Replace this use of System.out by a logger.(Ô¢²å
+E	java:S106F"+Replace this use of System.out by a logger.(ŽåÕ¹ÿÿÿÿÿ
+O
+java:S2864L"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ
+@	java:S106M"+Replace this use of System.out by a logger.(Ô¢²å
+E	java:S106O"+Replace this use of System.out by a logger.(ŽåÕ¹ÿÿÿÿÿ

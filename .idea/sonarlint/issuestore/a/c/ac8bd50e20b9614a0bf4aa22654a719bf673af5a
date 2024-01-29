@@ -1,0 +1,5 @@
+
+i
+java:S1104"TMake nickname a static final constant or non-public and provide accessors if needed.(ÔÀª\
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÖœ„üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÿ«Š×úÿÿÿÿ

@@ -1,0 +1,17 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸ÙºÓüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÕÓ
+i
+java:S4042	"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(Áˆ¥àûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(éÇ°à
+i
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(—˜´³ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¯Ó™Ïùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(´³¯
+E	java:S106"+Replace this use of System.out by a logger.(¡©¢Àûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(³ë–÷
+E	java:S106-"+Replace this use of System.out by a logger.(¶ö÷ìÿÿÿÿÿ
+i
+java:S4042."NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æÁ¬Åıÿÿÿÿ

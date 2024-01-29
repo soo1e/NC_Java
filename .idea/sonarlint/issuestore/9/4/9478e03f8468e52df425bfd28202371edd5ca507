@@ -1,0 +1,18 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼³Ê”
+X
+java:S1163"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+O
+java:S1143"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–öÍ¦úÿÿÿÿ
+[
+java:S2259"EA "NullPointerException" could be thrown; "writer1" is nullable here.(ã¼
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¨³Ë
+B
+java:S1481"'Remove this unused "bw" local variable.(Ó¾ñİúÿÿÿÿ
+@	java:S106%"+Replace this use of System.out by a logger.(áãí™
+E	java:S106)"+Replace this use of System.out by a logger.(ì£ë„üÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(Ø”è¼şÿÿÿÿ

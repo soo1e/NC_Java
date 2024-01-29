@@ -1,0 +1,17 @@
+
+s
+java:S1192"VDefine a constant instead of duplicating this literal "---------------------" 5 times.(¨³Ë8İÌ¹›Õ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™Ì¦ä8ŞÌ¹›Õ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šŞıÍûÿÿÿÿ8ŞÌ¹›Õ1
+G	java:S106"+Replace this use of System.out by a logger.(¨³Ë8ïÌ¹›Õ1
+G	java:S106"+Replace this use of System.out by a logger.(¨³Ë8ñÌ¹›Õ1
+L	java:S106"+Replace this use of System.out by a logger.(÷ÑŒ¹ûÿÿÿÿ8òÌ¹›Õ1
+G	java:S106"+Replace this use of System.out by a logger.(×ö„»8òÌ¹›Õ1
+G	java:S106 "+Replace this use of System.out by a logger.(¨³Ë8óÌ¹›Õ1
+X	java:S125"<This block of commented-out lines of code should be removed.(â„°Ş8óÌ¹›Õ1
+L	java:S106%"+Replace this use of System.out by a logger.(ÕÚ‹ûÿÿÿÿ8ôÌ¹›Õ1
+G	java:S106*"+Replace this use of System.out by a logger.(‡ë­8õÌ¹›Õ1
+G	java:S106,"+Replace this use of System.out by a logger.(¨³Ë8öÌ¹›Õ1
+G	java:S1063"+Replace this use of System.out by a logger.(¨³Ë8øÌ¹›Õ1
+L	java:S106<"+Replace this use of System.out by a logger.(¹ß‡™ÿÿÿÿÿ8ûÌ¹›Õ1
+G	java:S106@"+Replace this use of System.out by a logger.(¯œ¼Ö8ıÌ¹›Õ1

@@ -1,0 +1,15 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(£ÔÂ±úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì×Þ¹
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–öÍ¦úÿÿÿÿ
+^
+java:S3518"CMake sure this expression can't be zero before doing this division.(¯£Œžÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ä°³°
+Q	java:S125"<This block of commented-out lines of code should be removed.( ÍÉý
+E	java:S106
+"+Replace this use of System.out by a logger.(šµãõùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÉÜ©°þÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÕŽÇÕûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ï­ úþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¯£Œžÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(åàð„øÿÿÿÿ

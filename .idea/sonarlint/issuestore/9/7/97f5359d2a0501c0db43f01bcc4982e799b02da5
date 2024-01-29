@@ -1,0 +1,23 @@
+
+a
+java:S1192"KDefine a constant instead of duplicating this literal " ë‹¬ëŸ¬ = " 3 times.(€Ý“æ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ý“æ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Â…Ë
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•·ƒ˜
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ­Êªþÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì‰Øò
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þˆœûþÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "converter".(‘×ÌÃÿÿÿÿÿ
+I
+java:S1481".Remove this unused "converter" local variable.(‘×ÌÃÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(öÇüõøÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(êøº¬ÿÿÿÿÿ
+G
+java:S1611"1Remove the parentheses around the "USD" parameter(€Ý“æ
+@	java:S106"+Replace this use of System.out by a logger.(€Ý“æ
+E	java:S106"+Replace this use of System.out by a logger.(Ú£ï¶ÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(æìá°
+E	java:S106"+Replace this use of System.out by a logger.(Äçòøÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(†¤·µ
