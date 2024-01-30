@@ -59,5 +59,7 @@ c
 3src/chap_10/converter/ConvertibleWithTwoParams.java,7/1/715c618afd32c6f0d4108d8942c2124b072f704e
 W
 'src/chap_10/converter/KRWConverter.java,8/4/84a4d56d9df2c2c2db9f1d66043c853905927e1c
-G
-src/chap_10/ㅇㅇ.java,7/3/738cce81a38e18ad2e9f4e64825d13d113ae0e64
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
